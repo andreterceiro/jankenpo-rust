@@ -1,15 +1,20 @@
 # jankenpo-rust
 
 
-## Documentação da linguagem
+## Language documentation
 
-Veja [este link](https://www.rust-lang.org).
+Please see [this link](https://www.rust-lang.org).
 
 
-## Instalação
+## Installation
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
-Como está ensinado [aqui](https://www.rust-lang.org/tools/install).
+This command is teached [here](https://www.rust-lang.org/tools/install).
+
+
+## Course
+
+Please see [this link](https://www.udemy.com/course/rust-programming-crash-course-for-beginners-part-1/). This course has other parts, you can find this other parts using the search in the [Udemy website](https://www.udemy.com)
